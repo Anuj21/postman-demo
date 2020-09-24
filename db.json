@@ -8,5 +8,14 @@
       "email": "anuj.joshi@gmail.com",
       "establishmentId": "anJo"
     }
-  ]
+  ],
+  "anujoshi": {
+    "id": 0,
+    "username": "anujoshi",
+    "firstName": "Anuj",
+    "lastName": "Joshi",
+    "email": "anuj.joshi@gmail.com",
+    "establishmentId": "anJo"
+  }
+
 }
